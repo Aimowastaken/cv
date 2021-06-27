@@ -1,6 +1,5 @@
 <html>
     <head>
-    <title>Mridul's Personal Site</title>
     <link rel="stylesheet" href="css/styles.CSS">
     </head>
     <body>
