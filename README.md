@@ -1,6 +1,5 @@
-<!--cv-->
 <html>
-    <title>Mridul's Personal Site</title>
+    <head>Mridul's Personal Site</head>
     <body style="background-color: tan;">
         <table cellspacing="30"> 
             <tr>
