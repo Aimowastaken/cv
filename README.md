@@ -1,7 +1,7 @@
 <html>
     <head>Mridul's Personal Site</head>
     <body style="background-color: tan;">
-        <table cellspacing="30"> 
+        <table cellspacing="30" style="background-color: tan;"> 
             <tr>
                 <td><img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cherry-blossom-facts-1578344148.jpg?crop=1.00xw:0.754xh;0,0.164xh&resize=1200:*" alt="Mridul's favourite picture" width="300" height="300"></td>
                 <td>
