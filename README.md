@@ -1,5 +1,5 @@
 <html>
-    <head>Mridul's Personal Site</head>
+    <head><h1>Mridul's Personal Site</h1></head>
     <body style="background-color: tan;">
         <table cellspacing="30" style="background-color: tan;"> 
             <tr>
